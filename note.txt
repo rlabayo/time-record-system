@@ -1,0 +1,31 @@
+
+
+/** Database **/
+
+Database file: records.sql
+Database name: records
+	
+
+/** Available user from database - User table **/
+
+Username: admin	
+Password: Password123**
+
+
+
+
+Task:
+1. QR Code - NOT DONE
+- I use Employee ID in time recording module.
+
+Note:
+1. Time Recording page 
+- I display 2 days span of all the employees time record and display it in a descending order.
+2. Employees Time Record page [User type - Super Admin]
+- I display all the employees time record when the user type is Super Admin
+3. Time Record [User type - Admin]
+- I display only the user's inserted time record when the user type is Admin
+
+
+
+
