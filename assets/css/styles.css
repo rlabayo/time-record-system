@@ -1,0 +1,25 @@
+body{
+
+}
+
+section {
+    padding: 60px 0;
+}
+
+.error {
+    color: red;
+    font-size: .75rem;
+}
+
+.bg-maroon {
+    background-color: #7b040f !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* .page-item.active .page-link {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+} */
