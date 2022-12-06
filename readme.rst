@@ -10,4 +10,8 @@ Modules
 
 - Employee Records
 - Employee Time Records
+- Time Recording
 - User 
+- Log In / Log Out
+
+
