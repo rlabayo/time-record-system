@@ -19,6 +19,13 @@ section {
     cursor: pointer;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255,255,255,.55) !important;
+}
 /* .page-item.active .page-link {
     background-color: #dc3545 !important;
     border-color: #dc3545 !important;
