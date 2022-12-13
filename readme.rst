@@ -14,7 +14,7 @@ Modules
 
 * Employee Records
 	- Employee Records is only visible to a Super Admin user and the one who is able to add, update and delete of employee records.
-	For reference please check the link - https://github.com/rlabayo/time-record-system/blob/main/Employee-module.png
+	For reference please check the link - `Employee page <https://github.com/rlabayo/time-record-system/blob/main/Employee-module.png>`_ . 
 	
 * Employee Time Records
 	- Employee time records will display all the time records of the specific user. 
@@ -23,16 +23,16 @@ Modules
 * Time Recording
 	- The employees will be able to time in and time out in time recording page.
 	- This page will also display the time in and time out of all the employees on that day.
-	For reference please check the link - https://github.com/rlabayo/time-record-system/blob/main/Time-recording.png
+	For reference please check the link - `Time recording page <https://github.com/rlabayo/time-record-system/blob/main/Time-recording.png>`_ .  
 	
 * User 
  	- User module is only visible to a Super Admin user.
  	- The user will be able to add, update, delete user records.
 	For reference please check the links below:
-		- https://github.com/rlabayo/time-record-system/blob/main/User-module.png
-		- https://github.com/rlabayo/time-record-system/blob/main/add-user.png
-		- https://github.com/rlabayo/time-record-system/blob/main/edit-user.png
-		- https://github.com/rlabayo/time-record-system/blob/main/delete-confirm.png
+		- `User page <https://github.com/rlabayo/time-record-system/blob/main/User-module.png>`_
+		- `Add user modal <https://github.com/rlabayo/time-record-system/blob/main/add-user.png>`_
+		- `Edit user modal <https://github.com/rlabayo/time-record-system/blob/main/edit-user.png>`_
+		- `Delete confirmation modal <https://github.com/rlabayo/time-record-system/blob/main/delete-confirm.png>`_
  
 * Log In / Log Out
 	- Once the user login, the session will start and will expire after 10mins.
@@ -41,7 +41,7 @@ Modules
 
 Note: This is a sample time recording web application using CodeIgniter and other web technologies. The application is not finish yet and needs some more improvement.
 
-To check for a sample video presentation please check on this link https://github.com/rlabayo/time-record-system/blob/main/Time-recording.mov
+Check on this `demo link <https://github.com/rlabayo/time-record-system/blob/main/Time-recording.mov>`_ for a sample video presentation.
 
 
 
