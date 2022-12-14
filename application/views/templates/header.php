@@ -21,7 +21,7 @@
             date_default_timezone_set("Asia/Manila");
         ?>
         
-        <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/styles.css?ver=1" />
+        <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/styles.css?ver=2" />
         <script>
             var baseUrl = "<?php echo base_url(); ?>";
         </script>

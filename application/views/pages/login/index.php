@@ -25,12 +25,12 @@
             var baseUrl = "<?php echo base_url(); ?>";
         </script>
     </head>
-    <body class="bg-light">
+    <body class="bg-dark">
         <section>
             <div class="container">
-                <div class="row justify-content-center ">
-                    <div class="col-md-4 col-sm-6 bg-white border rounded p-5">
-                        <h2 class="text-center text-muted">LOGIN</h2>
+                <div class="row justify-content-center mx-2 ">
+                    <div class="col-lg-4 col-sm-6 bg-white border rounded p-5">
+                        <h2 class="text-center fw-bold text-muted">LOGIN</h2>
 
                         <form id="form-login">
                             <div class="form-group my-3">
