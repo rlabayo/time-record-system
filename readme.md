@@ -34,9 +34,7 @@ To build a system that will use to record the time in and time out of the employ
 * User 
  	- User module is only visible to a Super Admin user.
  	- The user will be able to add, update, delete user records.
-		- User page 
-			- list all the users
-			- the user can't delete their own account
+	- The user can't delete their own account
 		
 		![Alt text](/User-module.png "User Page")
 	
