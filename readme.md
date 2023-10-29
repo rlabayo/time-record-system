@@ -1,14 +1,16 @@
-# Daily Time Record System
+# About the Project
+
+## Daily Time Record System
 
 To build a system that will use to record the time in and time out of the employees for their daily attendance.
 
 
-# Languages/Tools:
+## Languages/Tools:
 * PHP, CodeIgniter Framework, MySql, REST API, JavaScript, AJAX, jQuery, HTML, CSS, Bootstrap
 * Chrome Dev tools, Visual Studio Code, Apache
 
 
-# Modules
+## Modules
 
 * Employee Records
 	- Employee Records is only visible to a Super Admin user and the one who is able to add, update and delete of employee records.
